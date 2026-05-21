@@ -1,0 +1,9 @@
+[2026-05-20 22:04:12] [INFO] Deployment pipeline started
+[2026-05-20 22:04:12] [INFO] Pulling latest code from GitHub
+[2026-05-20 22:04:12] [INFO] Building Docker image
+[2026-05-20 22:04:12] [INFO] Running unit tests
+[2026-05-20 22:04:12] [INFO] Tests passed successfully
+[2026-05-20 22:04:12] [INFO] Pushing image to registry
+[2026-05-20 22:04:12] [INFO] Deploying to Kubernetes cluster
+[2026-05-20 22:04:12] [SUCCESS] Health check passed
+[2026-05-20 22:04:12] [SUCCESS] Deployment complete
